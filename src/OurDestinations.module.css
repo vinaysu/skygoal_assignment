@@ -1,0 +1,18 @@
+.main{
+    text-align: left;
+    padding: 10rem;
+}
+
+.slideBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.cards{
+    display: flex;
+    gap: 3rem;
+    overflow: hidden;
+}

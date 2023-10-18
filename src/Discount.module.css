@@ -1,0 +1,29 @@
+.main{
+    display: flex;
+    margin: 2rem 0;
+}
+
+.image{
+    width: 50vw;
+   
+}
+img{
+    border: solid black 1px;
+}
+
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left{
+    width: 50vw;
+    text-align: left;
+    padding-left: 10rem;
+}
+
+.text{
+    font-size: 2rem;
+
+}

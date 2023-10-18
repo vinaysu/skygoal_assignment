@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    padding: 2rem 10rem;
+}
+
+.left{
+    width: 50vw;
+    text-align: left;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+.image{
+    width: 50vw;
+   
+}
+img{
+    border: solid black 1px;
+}
+
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+   
+}
+.name{
+   font-weight: bolder;
+}
+
+.image{
+    width: 15rem;
+    min-height: 30vh;
+    border-radius: 2rem;
+}
+
+.capt{
+    display: flex;
+    gap: 5rem;
+    margin: 2rem 0;
+}
